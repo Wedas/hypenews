@@ -1,1 +1,4 @@
 Created my new txt.
+New line.
+Another new line.
+After staging.
