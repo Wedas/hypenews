@@ -1,4 +1,0 @@
-Created new txt.
-Another new line.
-After staging.
-After multiple staging.
